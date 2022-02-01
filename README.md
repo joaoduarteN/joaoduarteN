@@ -5,7 +5,7 @@
 I am a Computer Science student at University of São Paulo, in Brazil.
 
 - 🌱 I’m currently studying C and Python, specially Data-Science related stuff.
-- 🤔 I’m also interested in web development. Soon, I will start developing somethings related to this area.
+- 🤔 I'm frequently learning new things, and working on developing my knowledge in various programming skills.
 
 ##
 
